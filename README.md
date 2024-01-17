@@ -13,5 +13,4 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a self-taught programmer. </br>
-👨‍💻  I am passionate about Blockchain, Web3, crypto & I enjoy learning new things. </br>
+🎓 I’m learning to code. </br>
