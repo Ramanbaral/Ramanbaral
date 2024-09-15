@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
 <h3 align="center">Learning to code</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [www.ramanbaral.com.np](www.ramanbaral.com.np)
 
