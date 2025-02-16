@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.ramanbaral.com.np](www.ramanbaral.com.np)
 
-- 📫 How to reach me **ramanbaral69@gmail.com**
+- 📫 How to reach me **ramanbaral.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
