@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👨‍💻 All of my projects are available at [www.ramanbaral.com.np](www.ramanbaral.com.np)
+- 👨‍💻 All of my projects are available at [www.ramanbaral.live](https://www.ramanbaral.live/)
 
 - 📫 How to reach me **ramanbaral.dev@gmail.com**
 
